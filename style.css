@@ -16,3 +16,10 @@ html{
     height: 500px;
     width: 500px;
 }
+
+.btn{
+    margin: 0 auto;
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+}
