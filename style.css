@@ -2,3 +2,12 @@ html{
     background-color: black;
     height: 100%;
 }
+
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin: 100px auto;
+    text-align: center;
+    border: 3px solid yellow;
+}
