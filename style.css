@@ -11,3 +11,8 @@ html{
     text-align: center;
     border: 3px solid yellow;
 }
+
+#image{
+    height: 500px;
+    width: 500px;
+}
