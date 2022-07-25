@@ -21,7 +21,7 @@ next.addEventListener('click', function(){
 })
 
 // prev btn
-prev.next.addEventListener('click', function(){
-    i--;
-    document.getElementById('image').src = arr[i]; 
+// prev.addEventListener('click', function(){
+//     i--;
+//     document.getElementById('image').src = arr[i]; 
 })
