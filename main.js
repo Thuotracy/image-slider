@@ -10,4 +10,18 @@ var arr = ["img/image1.jpg",
            "img/image7.jpg",
            "img/image8.jpg", 
            "img/image9.jpg", 
-           "img/image10.jpg"]
+           "img/image10.jpg"];
+
+var i = 0;
+
+// next btn
+next.addEventListener('click', function(){
+  i++;
+  document.getElementById('image').src = arr[i];
+})
+
+// prev btn
+prev.next.addEventListener('click', function(){
+    i--;
+    document.getElementById('image').src = arr[i]; 
+})
