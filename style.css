@@ -22,4 +22,10 @@ html{
     height: 50px;
     width: 150px;
     margin: 10px;
+    background-color: yellow;
+    color: black;
+    border-radius: 15px;
+    border: 2px solid black;
+    font-size: 20px;
+
 }
