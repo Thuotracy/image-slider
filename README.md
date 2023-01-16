@@ -9,7 +9,7 @@
 An image sliding app
 
 ## Live link
-thuotracy.github.io/image-slider/
+[thuotracy.github.io/image-slider/](https://thuotracy.github.io/image-slider/)
 
 
 
