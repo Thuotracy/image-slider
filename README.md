@@ -2,6 +2,7 @@
 
 ## Description
 An image sliding app
+
 ## Technologies Used
 * HTML
 * CSS
