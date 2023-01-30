@@ -1,5 +1,4 @@
 # IMAGE SLIDER
-
 ## Description
 An image sliding app
 
