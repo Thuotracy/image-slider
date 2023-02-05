@@ -1,7 +1,7 @@
 # IMAGE SLIDER
 
 ## Description
-An image sliding app.
+An image sliding app
 
 ## Technologies Used
 * HTML
